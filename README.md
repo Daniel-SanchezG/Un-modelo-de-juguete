@@ -33,7 +33,7 @@
 | [MACLAS model.ipynb](https://nbviewer.org/github/Daniel-SanchezG/MACLAS/blob/main/MACLAS.ipynb) |
 
 ---
-Para permitir la reproducibilidad del ejercicio, dejo un directorio con los datos usados para entrenar el modleo [data](./DATAcuerpos_preprocessed.xlsx). 
+Para permitir la reproducibilidad del ejercicio, dejo un directorio con los datos usados para entrenar el modleo [data](./DATA/cuerpos_preprocessed.xlsx). 
 
 ---
 **Ambiente de desarrollo**
