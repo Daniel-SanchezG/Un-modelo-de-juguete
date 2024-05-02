@@ -1,0 +1,29 @@
+digraph Tree {
+node [shape=box, style="filled", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="Acabado_Externo <= 0.179\nsamples = 100.0%\nvalue = [0.154, 0.808, 0.019, 0.019]", fillcolor="#71eb66"] ;
+1 [label="Acabado_Interno <= 1.389\nsamples = 1.4%\nvalue = [0.333, 0.167, 0.0, 0.5]", fillcolor="#f5cef8"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="Ahumado <= 0.082\nsamples = 0.7%\nvalue = [0.333, 0.0, 0.0, 0.667]", fillcolor="#eb9cf2"] ;
+1 -> 2 ;
+3 [label="(...)", fillcolor="#C0C0C0"] ;
+2 -> 3 ;
+6 [label="(...)", fillcolor="#C0C0C0"] ;
+2 -> 6 ;
+7 [label="Tamaño(cm) <= 4.974\nsamples = 0.7%\nvalue = [0.333, 0.333, 0.0, 0.333]", fillcolor="#ffffff"] ;
+1 -> 7 ;
+8 [label="(...)", fillcolor="#C0C0C0"] ;
+7 -> 8 ;
+11 [label="(...)", fillcolor="#C0C0C0"] ;
+7 -> 11 ;
+12 [label="Elemento₁ <= 4.248\nsamples = 98.6%\nvalue = [0.151, 0.817, 0.02, 0.012]", fillcolor="#6feb64"] ;
+0 -> 12 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+13 [label="T_desgrasante <= 2.032\nsamples = 97.6%\nvalue = [0.153, 0.825, 0.01, 0.012]", fillcolor="#6dea62"] ;
+12 -> 13 ;
+14 [label="(...)", fillcolor="#C0C0C0"] ;
+13 -> 14 ;
+29 [label="(...)", fillcolor="#C0C0C0"] ;
+13 -> 29 ;
+86 [label="samples = 1.0%\nvalue = [0.0, 0.0, 1.0, 0.0]", fillcolor="#399de5"] ;
+12 -> 86 ;
+}
