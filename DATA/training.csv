@@ -1,0 +1,579 @@
+Elemento,Coccion,T_desgrasante,Composicion,Densidad,Textura,Grosor₍mm),Tamaño(cm),Acabado_Interno,Acabado_Externo,Dureza,Color_Munsell,Ahumado,Tecnica,Elemento₁,Localizacion,Baño,Color_Baño,Engobe,Color_Engobe,Estilo_ceramico,Color_Eng _o_baño2
+cuerpo,1,2,5,1,0,"7,00","3,00",2,2,0,5YR6/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,6,0,0,"12,00","5,00",2,2,0,2.5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,6,0,0,"8,00","3,00",2,2,0,2.5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,6,1,0,"10,00","3,00",1,1,1,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,6,0,0,"7,00","3,00",1,2,0,5YR5/6,0,2,1,1,0,No,0,No,Achurado cruzada,No
+cuerpo,0,2,6,0,0,"10,00","4,00",2,2,1,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,3,6,1,0,"11,00","6,00",0,2,0,5YR5/6,0,0,0,0,2,Rojo amarilloso,0,No,Momil Rojo sencilla,No
+cuerpo,1,1,3,1,0,"5,00","3,00",1,1,0,5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,3,0,0,"6,00","3,00",1,1,0,5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,2,6,1,0,"7,00","3,00",2,2,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,1,2,0,0,"6,00","4,00",2,2,1,10YR3/1,1,1,6,1,0,No,0,No,Acanalado punteado,No
+cuerpo,0,1,5,0,0,"7,00","4,00",3,3,0,10YR6/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,3,6,1,0,"13,00","5,00",1,1,0,5YR4/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,5,0,0,"10,00","5,00",2,2,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,5,1,0,"15,00","7,00",1,1,0,5YR6/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,4,0,0,"5,00","4,00",2,2,0,5YR5/3,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,4,0,0,"5,00","5,00",2,2,0,5YR5/3,3,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,4,0,0,"8,00","2,00",2,2,1,5YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,4,0,0,"7,00","3,00",2,2,1,5YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,1,0,0,"6,00","3,00",2,2,1,75YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,5,0,0,"6,00","3,00",1,2,1,10YR4/2,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,4,0,0,"6,00","3,00",1,3,0,10YR5/3,1,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,5,0,0,"6,00","3,00",1,1,0,2.5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,3,4,0,0,"7,00","4,00",1,1,0,5YR57/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,3,2,0,0,"7,00","5,00",2,2,1,75YR4/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,4,0,0,"11,00","5,00",2,1,1,75YR5/3,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,6,1,0,"5,00","2,00",2,2,0,75YR5/3,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,5,0,0,"6,00","3,00",1,1,0,75YR4/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,0,0,"6,00","2,00",1,1,0,75YR4/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,0,0,"6,00","3,00",1,1,0,75YR4/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"8,00","3,00",2,2,1,5YR4/4,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,3,1,1,0,"9,00","5,00",1,1,0,5YR5/8,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,1,0,"6,00","3,00",2,1,0,5YR5/8,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,5,0,0,"7,00","3,00",2,1,0,5YR5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"8,00","3,00",2,2,1,5YR5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,2,5,1,0,"10,00","3,00",2,1,0,5YR4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,5,0,0,"7,00","3,00",1,2,1,75YR6/4,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,5,1,0,"8,00","3,00",2,2,1,75YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"10,00","3,00",2,2,0,5YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,3,3,0,0,"10,00","3,00",1,1,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,0,1,0,0,"5,00","3,00",3,3,0,75YR4/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,5,0,0,"8,00","5,00",3,3,2,2.5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,0,1,0,0,"5,00","3,00",3,3,0,75YR4/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,0,0,0,"10,00","3,00",3,3,0,10YR6/4,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,0,0,0,0,"10,00","4,00",3,3,0,10YR6/4,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,0,1,0,0,"7,00","4,00",3,3,0,75YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"11,00","3,00",3,3,1,75YR4/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,2,0,0,"6,00","2,00",2,2,0,75YR4/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,3,0,0,"7,00","2,00",1,1,0,75YR5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,5,1,0,"8,00","3,00",1,1,0,5YR5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,3,5,1,0,"11,00","4,00",1,0,1,5YR474,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,1,0,"8,00","3,00",2,1,0,5YR4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,0,1,0,0,"6,00","3,00",1,3,0,10YR6/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,3,0,0,"10,00","4,00",2,2,0,5YR576,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,1,2,0,0,"4,00","4,00",3,3,0,10YR5/4,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,2,6,0,0,"8,00","5,00",2,2,0,2.5YR4/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,3,0,0,"9,00","3,00",1,2,0,75YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,6,0,0,"7,00","3,00",3,2,0,5YR4/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,5,0,0,"5,00","3,00",1,3,1,75YR4/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,1,0,"6,00","2,00",1,1,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,0,1,0,0,"7,00","3,00",1,3,0,10YR6/3,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,1,5,0,0,"11,00","4,00",2,2,1,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,2,0,0,"10,00","3,00",2,1,0,75YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,5,1,0,"5,00","3,00",1,1,0,75YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,1,0,0,"6,00","3,00",2,2,0,5YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,2,0,0,"7,00","2,00",2,2,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,3,0,1,0,"7,00","4,00",2,2,0,75YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,0,0,"7,00","4,00",2,1,1,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,0,1,0,0,"7,00","4,00",3,3,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,0,5,0,0,"5,00","2,00",3,3,1,75YR5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,6,0,0,"8,00","3,00",3,3,0,75YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,3,2,0,0,"7,00","4,00",2,2,0,75YR6/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,2,4,0,0,"4,00","3,00",1,1,0,10YR5/2,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,2,4,0,0,"7,00","7,00",2,2,1,10YR5/3,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,2,4,0,0,"8,00","4,00",2,2,1,10YR5/3,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,4,0,0,"6,00","4,00",2,2,1,10YR4/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,2,4,0,0,"6,00","3,00",3,3,1,75YR4/4,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,4,0,0,"7,00","2,00",2,3,1,10YR5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,4,0,0,"7,00","3,00",2,2,1,75YR4/4,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,2,4,0,0,"8,00","5,00",2,2,1,75YR4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,4,0,0,"7,00","3,00",2,2,1,75YR4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,2,4,0,0,"8,00","4,00",2,2,1,75YR4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,4,0,0,"8,00","3,00",2,2,1,75YR4/4,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,4,0,0,"6,00","3,00",2,2,1,75YR4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,1,0,0,"8,00","3,00",2,1,1,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,1,4,0,0,"6,00","3,00",2,2,0,5YR4/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,1,1,0,"7,00","2,00",1,1,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,2,0,0,"7,00","3,00",2,2,1,75YR4/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,2,2,0,0,"8,00","4,00",2,2,1,5YR5/4,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,2,0,0,"7,00","3,00",2,2,1,75YR4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,3,0,1,0,"7,00","3,00",1,1,0,5YR6/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"7,00","3,00",2,2,0,5YR6/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,1,0,0,0,"10,00","3,00",1,2,0,5YR6/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,2,0,0,"8,00","3,00",1,3,1,75YR4/2,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,2,0,0,"9,00","2,00",2,2,1,5YR4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,2,0,0,"7,00","3,00",2,2,1,75YR5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,0,0,"9,00","3,00",2,2,1,5YR5/6,1,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,5,1,0,"10,00","3,00",2,2,0,75YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,1,0,"9,00","3,00",2,2,1,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,4,1,0,"8,00","3,00",2,1,1,5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,6,1,0,"7,00","2,00",1,3,0,5YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,6,1,0,"7,00","4,00",2,2,1,5YR4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,1,0,"5,00","3,00",2,2,1,5YR4/8,1,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"8,00","3,00",3,3,1,75YR4/2,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,2,4,1,0,"6,00","3,00",1,1,1,10YR6/2,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,2,2,0,0,"9,00","4,00",1,2,1,10YR472,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,3,4,1,0,"16,00","6,00",2,2,1,10YR5/3,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,0,1,0,"14,00","3,00",1,1,0,5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,0,1,0,"16,00","3,00",1,1,0,5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,1,0,0,0,"10,00","4,00",2,2,1,75YR4/2,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,0,0,0,"10,00","3,00",2,2,1,75YR4/2,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,0,0,0,"10,00","3,00",2,3,1,10YR7/4,1,5,7,1,0,No,0,No,Sin identificar,No
+cuerpo,1,0,5,0,0,"19,00","4,00",2,2,1,5YR4/6,0,3,4,1,0,No,0,No,Sin identificar,No
+cuerpo,0,0,3,0,0,"5,00","2,00",3,3,0,5YR4/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"8,00","2,00",1,2,1,75YR5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,0,3,0,0,"5,00","2,00",3,3,1,75YR5/3,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,5,0,0,"6,00","2,00",3,3,1,75YR4/2,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,3,0,1,0,"10,00","5,00",2,2,1,75YR5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,2,4,0,0,"7,00","3,00",2,2,1,75YR4/3,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,2,4,0,0,"6,00","3,00",2,2,1,10YR4/2,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,2,4,0,0,"8,00","3,00",3,3,1,10YR5/2,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,2,4,0,0,"8,00","4,00",1,3,1,10YR5/2,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,1,4,0,0,"6,00","3,00",3,3,1,10YR5/3,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,6,1,0,"6,00","3,00",1,1,0,5YR4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,1,0,"6,00","3,00",2,2,1,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"7,00","3,00",2,2,1,5YR4/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,1,0,0,0,"8,00","3,00",1,2,1,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,0,5,0,0,"7,00","2,00",2,2,1,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,0,0,0,"6,00","2,00",1,1,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,0,0,0,0,"7,00","4,00",3,3,1,10YR5/4,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,0,4,0,0,"5,00","3,00",3,3,1,10YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,0,0,0,"10,00","3,00",2,2,1,2.5YR4/6,0,2,1,1,0,No,0,No,Achurado cruzada,No
+cuerpo,0,2,6,0,0,"6,00","3,00",2,2,1,75YR4/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,3,0,0,"9,00","3,00",2,2,1,75YR5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,3,0,0,"8,00","3,00",2,2,1,75YR5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,3,0,0,"9,00","3,00",2,2,1,75YR5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,3,0,0,"8,00","4,00",2,2,1,75YR5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,3,0,0,"8,00","3,00",2,2,1,75YR5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,3,0,0,"11,00","3,00",2,2,1,75YR5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,3,0,0,"8,00","3,00",2,2,1,75YR5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,3,0,0,"9,00","4,00",2,2,1,75YR5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,3,0,0,"9,00","3,00",2,2,1,75YR5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,3,0,0,"9,00","3,00",2,2,1,75YR5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,3,0,0,"8,00","3,00",2,2,1,75YR5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,3,0,0,"10,00","4,00",2,2,1,75YR5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,3,0,0,"9,00","3,00",2,2,1,75YR5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,3,0,0,"9,00","3,00",2,2,1,75YR5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,3,0,0,"9,00","3,00",2,2,1,75YR5/3,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,3,0,0,"9,00","3,00",2,2,1,75YR5/3,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,3,0,0,"9,00","3,00",2,2,1,75YR5/3,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,3,0,0,"9,00","2,00",2,2,1,75YR5/3,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,3,0,0,"9,00","3,00",2,2,1,75YR5/3,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,3,0,0,"7,00","2,00",2,2,1,75YR5/3,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,3,0,0,"8,00","3,00",2,2,1,75YR5/3,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,3,0,0,"11,00","3,00",2,2,1,75YR5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,3,0,0,"10,00","3,00",2,2,1,75YR5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,3,0,0,"9,00","4,00",2,2,1,75YR5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,0,1,0,"11,00","3,00",1,1,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,4,1,0,"8,00","3,00",1,2,1,75YR6/4,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,4,0,0,"12,00","3,00",2,2,1,75YR6/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,4,0,0,"8,00","3,00",2,2,1,75YR5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,4,0,0,"11,00","4,00",2,2,1,75YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,2,4,0,0,"10,00","4,00",2,2,1,10YR5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,0,0,"14,00","2,00",2,2,0,5YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,2,5,0,0,"7,00","3,00",2,2,2,75YR5/4,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,2,0,0,"5,00","5,00",3,3,2,75YR5/4,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,2,0,1,0,"11,00","4,00",3,2,2,10YR5/2,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,2,3,1,0,"11,00","3,00",3,3,2,5YR5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,2,0,0,0,"8,00","3,00",1,1,0,10YR4/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,0,0,0,"6,00","3,00",2,2,1,75YR5/4,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,3,0,0,"11,00","4,00",2,2,1,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,3,0,0,"10,00","2,00",2,2,1,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,1,3,0,0,"7,00","3,00",2,2,1,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,3,0,0,"8,00","3,00",2,2,1,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,3,0,0,"9,00","3,00",2,2,1,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,2,4,0,0,"9,00","3,00",1,2,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,4,0,0,"11,00","2,00",1,1,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,4,0,0,"14,00","3,00",1,1,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,4,0,0,"7,00","2,00",1,1,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,6,0,0,"8,00","2,00",1,1,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,6,1,0,"10,00","5,00",1,1,1,5YR4/4,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,3,0,1,0,"9,00","4,00",2,1,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,0,1,0,"7,00","3,00",1,1,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,0,1,0,"7,00","4,00",1,1,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,0,1,0,"10,00","3,00",1,2,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,0,1,0,"9,00","4,00",2,1,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,0,1,0,"7,00","4,00",2,1,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,6,1,0,"6,00","3,00",2,2,1,5YR5/6,2,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,0,3,0,0,"5,00","2,00",3,3,0,5yr5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,0,3,0,0,"5,00","3,00",3,3,0,5YR5/6,0,8,2,2,0,No,0,No,Objetos miscelaneo,No
+cuerpo,1,0,3,0,0,"6,00","2,00",3,3,0,75YR5/4,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,3,0,0,"6,00","3,00",3,3,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,2,5,1,0,"14,00","3,00",2,1,0,5YR4/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,0,0,0,0,"4,00","2,00",1,1,0,75YR4/2,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,2,0,0,0,"9,00","6,00",1,3,1,75YR6/6,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,5,1,0,"5,00","3,00",1,1,0,2.5YR5/8,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,0,1,0,"9,00","7,00",0,0,0,75YR5/3,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,0,1,0,"10,00","5,00",0,0,0,75YR5/3,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,0,1,0,"12,00","7,00",2,2,0,75YR5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,0,1,0,"7,00","3,00",2,2,0,75YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,6,0,0,"7,00","3,00",2,2,1,75YR4/2,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,6,0,0,"8,00","4,00",2,2,1,75YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,3,2,1,0,"8,00","3,00",1,1,0,2.5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,6,0,0,"10,00","4,00",2,2,1,2.5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,2,1,0,"8,00","3,00",1,1,0,2.5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,2,0,0,"7,00","2,00",1,1,0,2.5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,1,0,0,"8,00","2,00",2,1,0,2.5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,0,1,0,0,"5,00","3,00",3,3,0,75YR3/2,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,1,0,"6,00","3,00",2,2,1,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,4,0,0,"6,00","2,00",2,2,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,4,0,0,"6,00","2,00",2,2,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,2,0,0,0,"7,00","6,00",1,1,1,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,0,0,0,"4,00","2,00",1,1,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"10,00","3,00",2,2,1,5YR5/6,1,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,3,0,0,"6,00","2,00",1,1,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,6,0,0,"9,00","2,00",2,2,1,5YR4/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,1,0,"8,00","2,00",2,1,0,5YR4/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"7,00","3,00",2,2,1,5YR4/4,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,3,5,0,0,"12,00","3,00",1,2,0,2.5YR4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"7,00","3,00",1,1,1,75YR5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,3,1,0,"11,00","5,00",1,2,1,75YR5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,3,0,0,"9,00","2,00",2,2,1,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,6,0,0,"9,00","3,00",2,1,1,5YR5/6,1,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"7,00","3,00",1,2,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,3,0,0,"7,00","3,00",2,2,1,75YR3/2,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,3,1,0,"7,00","3,00",1,1,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,1,0,"5,00","3,00",2,2,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,0,0,0,"7,00","4,00",2,2,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"6,00","2,00",2,2,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,3,0,0,"9,00","3,00",2,2,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"6,00","2,00",2,1,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,0,0,0,"6,00","2,00",2,2,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,4,0,0,"5,00","3,00",2,2,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,2,0,0,"8,00","3,00",2,2,1,75YR4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,0,0,0,"5,00","3,00",2,2,1,75YR4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,6,0,0,"4,00","3,00",3,3,1,75YR4/4,0,4,3,1,2,Café,0,No,Dentada estampado,No
+cuerpo,0,2,0,0,1,"6,00","2,00",2,2,0,75YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,1,0,0,"7,00","5,00",2,2,0,75YR5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,4,0,0,"5,00","4,00",1,1,0,5YR6/8,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,4,0,0,"6,00","2,00",3,1,0,5YR6/8,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,0,0,0,"12,00","3,00",2,2,1,75YR6/6,1,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,4,0,0,"7,00","3,00",2,2,0,75yr5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,1,0,"9,00","4,00",2,2,1,5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,1,0,"11,00","3,00",2,2,1,5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,1,0,"12,00","4,00",1,2,1,5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"7,00","4,00",2,2,1,5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"6,00","4,00",2,2,1,5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"7,00","5,00",2,2,1,5YR5/8,1,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"7,00","3,00",2,2,0,5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"7,00","7,00",2,1,1,5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"7,00","2,00",3,3,1,75YR4/6,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,0,0,"7,00","3,00",3,3,1,5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,5,1,0,"10,00","3,00",1,1,1,75yr56/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,5,1,0,"12,00","4,00",1,1,1,75yt6/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,5,1,0,"9,00","3,00",1,2,1,5yr5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,6,0,0,"5,00","3,00",1,1,1,5YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,5,0,0,"5,00","3,00",1,2,1,5yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,5,0,0,"7,00","3,00",1,2,1,5yr5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,5,1,0,"7,00","3,00",1,1,1,5yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,2,6,0,0,"7,00","4,00",2,2,1,5yr5/8,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,3,2,1,0,"9,00","3,00",2,1,0,5yr5/4,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"7,00","4,00",2,2,1,75YR4/4,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,6,0,0,"6,00","2,00",3,3,1,75YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,0,0,"12,00","3,00",2,2,1,5YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,3,2,0,0,"10,00","3,00",2,1,1,5YR6/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,1,2,0,0,"6,00","2,00",2,2,1,75yr5/6,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"8,00","3,00",1,2,2,75yr4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,3,5,1,0,"9,00","3,00",1,1,0,75yr6/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,3,0,0,"7,00","3,00",2,1,1,75yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,2,0,0,"6,00","3,00",2,2,1,5yr5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,5,0,0,"7,00","2,00",2,3,1,74yr4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,3,2,1,0,"9,00","4,00",2,2,1,5yr6/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"7,00","5,00",2,2,1,5yr6/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"7,00","4,00",1,1,0,5yr6/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"8,00","2,00",1,2,1,5yr6/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"1,00","3,00",1,2,1,5yr6/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"11,00","3,00",2,2,1,5YR4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,0,0,"9,00","4,00",2,2,1,5yr6/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,6,0,0,"8,00","4,00",2,2,1,5YR4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"9,00","3,00",2,2,1,5YR4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"8,00","3,00",2,2,1,5YR4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"8,00","3,00",2,2,1,5YR4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,0,0,"8,00","3,00",2,2,0,5YR4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,0,0,"8,00","2,00",2,2,1,5YR4/4,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,0,0,"7,00","3,00",1,1,0,5yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"6,00","4,00",2,2,1,5YR4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"5,00","3,00",1,2,1,5YR4/4,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"6,00","3,00",2,2,1,5YR4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"7,00","2,00",2,2,0,5yr5/4,0,4,3,1,0,No,0,No,Dentada estampado,No
+cuerpo,1,2,0,0,1,"9,00","2,00",2,1,0,5yr6/8,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"8,00","3,00",2,2,1,Café rojizo,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,0,0,"8,00","3,00",3,3,1,5YR4/4,0,0,0,0,3,café,0,No,Sin identificar,No
+cuerpo,1,1,5,0,0,"8,00","3,00",2,2,1,75yr4/2,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,5,0,0,"7,00","3,00",2,2,1,75yr4/2,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"10,00","3,00",2,2,1,75yr5/4,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,1,0,"11,00","4,00",2,2,1,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,6,0,0,"8,00","2,00",2,2,1,5yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,6,0,0,"8,00","3,00",2,2,0,5YR576,2,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,1,4,0,0,"6,00","3,00",2,2,0,5YR5/6,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,6,0,0,"7,00","3,00",1,1,0,5yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,2,0,0,"7,00","3,00",2,2,1,5yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,6,0,0,"6,00","2,00",2,2,1,5yr4/3,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,2,0,0,"6,00","3,00",2,2,1,5yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,6,0,0,"10,00","4,00",2,2,1,2.5yr5/8,2,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,1,4,0,0,"5,00","3,00",2,2,1,10yr6/4,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,1,5,0,0,"6,00","2,00",2,2,1,75yr4/2,3,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,6,0,0,"6,00","3,00",2,2,1,75yr5/4,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,0,0,0,"8,00","3,00",1,1,0,2.5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,2,1,0,"9,00","3,00",2,2,1,2.5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,2,1,0,"10,00","3,00",1,1,0,2.5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,5,0,0,"6,00","2,00",2,2,1,5yr4/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"7,00","4,00",2,2,1,5YR4/3,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,2,0,0,"9,00","2,00",2,2,1,5YR6/6,0,4,3,1,0,No,0,No,Dentada estampado,No
+cuerpo,0,2,6,0,0,"6,00","4,00",2,2,1,5yr6/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,2,4,0,0,"9,00","3,00",2,2,1,5yr5/6,0,6,5,1,0,No,0,No,Incisa ancha,No
+cuerpo,0,2,2,0,0,"8,00","3,00",2,2,1,5yr4/6,1,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,2,0,0,0,"8,00","3,00",1,1,1,10yr6/2,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,0,2,0,0,"6,00","3,00",3,3,0,5YR5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,5,0,0,"6,00","2,00",2,2,1,5YR3/2,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,3,5,0,0,"7,00","3,00",2,2,1,2.5yr4/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,5,0,0,"6,00","3,00",2,2,1,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,6,0,0,"8,00","3,00",2,2,1,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,5,0,0,"7,00","4,00",2,2,1,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,2,5,0,0,"7,00","3,00",2,2,1,5yr5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,6,0,0,"8,00","2,00",2,2,1,5yr6/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,6,0,0,"6,00","4,00",2,2,1,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,5,1,0,"9,00","3,00",1,1,0,2.5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,5,0,0,"7,00","3,00",2,2,0,2.5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,4,0,0,"8,00","3,00",2,2,1,10yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"7,00","3,00",2,2,1,10yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,0,0,"9,00","3,00",2,2,1,75yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,4,0,0,"7,00","3,00",2,2,1,10yr5/4,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,4,0,0,"9,00","4,00",2,2,0,75yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,0,0,"10,00","2,00",2,2,1,10yr5/3,0,4,3,1,0,No,0,No,Dentada estampado,No
+cuerpo,0,2,6,0,0,"6,00","2,00",3,3,1,10yr5/3,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"10,00","3,00",3,3,1,5YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,0,0,"8,00","4,00",2,2,1,5yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,0,0,"7,00","3,00",2,2,1,5yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,0,0,"8,00","3,00",2,1,1,5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"7,00","3,00",2,2,1,75yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"7,00","2,00",2,2,2,5yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,5,0,0,"8,00","3,00",2,2,1,5yr5/4,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"9,00","3,00",2,2,0,75yr6/4,1,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,1,0,0,"7,00","2,00",3,3,1,10yr6/3,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,1,0,0,"10,00","3,00",2,3,1,75yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"6,00","2,00",3,3,1,75yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"7,00","3,00",3,2,2,75yr5/4,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"8,00","3,00",2,2,1,75yr4/4,3,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"7,00","2,00",2,2,1,5yr5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"6,00","2,00",2,1,0,75yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,0,0,"7,00","3,00",1,2,1,75yr4/2,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,0,0,0,"5,00","2,00",3,2,1,75yr4/2,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,4,0,1,"6,00","2,00",1,1,0,5yr5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"9,00","3,00",2,1,1,5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,2,0,0,"7,00","3,00",2,2,1,2.5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,5,0,0,"9,00","3,00",1,2,1,75yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,0,0,0,"9,00","3,00",1,2,1,10yr4/2,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,0,0,0,"4,00","4,00",1,2,1,75yr4/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,0,0,"9,00","3,00",1,1,1,75YR5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,1,0,1,"6,00","3,00",1,1,0,5yr5/8,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"6,00","3,00",2,2,1,74yr4/2,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,2,0,0,0,"4,00","2,00",1,1,0,10yr6/3,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,6,0,0,"5,00","2,00",1,1,0,75YR4/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,2,4,0,0,"6,00","3,00",1,1,0,5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,0,0,0,"5,00","3,00",1,2,1,75YR5/3,2,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"7,00","2,00",1,1,1,75yr4/2,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,5,0,0,"8,00","2,00",1,1,1,5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,5,0,0,"7,00","2,00",2,1,0,5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,0,0,0,"4,00","3,00",1,2,0,10yr3/2,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,2,1,0,"8,00","5,00",1,1,0,5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,6,0,0,"6,00","3,00",1,1,0,5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,5,0,0,"9,00","3,00",1,1,1,5yr6/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,6,0,0,"7,00","4,00",2,1,0,5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,6,0,0,"7,00","2,00",1,1,0,5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,6,0,0,"7,00","3,00",1,1,0,5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,6,0,0,"8,00","3,00",2,2,1,5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,0,0,0,0,"4,00","3,00",1,2,1,5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,6,0,0,"8,00","2,00",1,1,1,5yr5/8,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,5,0,0,"6,00","3,00",2,2,1,75YR4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,5,0,0,"7,00","3,00",2,2,1,75yr4/4,0,4,3,1,0,No,0,No,Dentada estampado,No
+cuerpo,0,1,0,0,0,"6,00","3,00",2,2,1,75yr4/4,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,0,0,"7,00","3,00",3,3,1,2.5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"6,00","3,00",1,3,1,75yr476,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,6,0,0,"8,00","3,00",2,2,1,2.5yr5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,6,0,0,"6,00","2,00",2,2,1,2.5yr5/6,0,4,3,1,0,No,0,No,Dentada estampado,No
+cuerpo,0,1,2,0,0,"5,00","3,00",3,3,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,1,0,0,"10,00","3,00",2,2,1,75yr4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"8,00","3,00",2,2,1,75yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,3,5,0,0,"12,00","4,00",2,2,0,2.5yr5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"7,00","5,00",3,3,1,5YR4/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,6,0,0,"7,00","2,00",2,2,1,75yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,0,0,0,"6,00","2,00",1,2,1,75yr4/2,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"7,00","2,00",2,2,1,75yr4/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"8,00","3,00",2,2,1,75yr4/2,3,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,5,0,0,"7,00","2,00",2,2,1,75yr6/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,3,2,0,0,"8,00","4,00",2,2,1,5yr5/6,1,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,2,6,0,0,"7,00","2,00",2,2,0,5yr5/4,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,5,0,0,"7,00","3,00",2,2,1,75YR6/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,3,2,0,0,"9,00","3,00",2,2,1,5yr4/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,6,0,0,"7,00","4,00",2,2,1,75YR4/2,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,6,0,0,"6,00","2,00",2,3,1,75yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,3,2,0,0,"6,00","3,00",2,2,1,5yr6/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"8,00","3,00",1,2,1,75yr6/4,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"7,00","3,00",1,2,1,74yr4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,3,5,1,0,"5,00","3,00",1,1,0,5yr6/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,1,0,1,0,"8,00","2,00",1,1,0,5yr6/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"7,00","3,00",2,2,1,5yr6/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,6,0,0,"7,00","3,00",2,2,1,5YR6/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,6,0,0,"8,00","3,00",1,2,1,2.5yr5/6,0,4,3,1,0,No,0,No,Dentada estampado,No
+cuerpo,0,2,2,0,0,"8,00","4,00",2,2,1,10yr6/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,2,0,0,"8,00","4,00",2,2,1,2.5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,6,0,0,"7,00","3,00",2,2,1,2.5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,2,0,0,"7,00","3,00",2,2,1,2.5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,2,0,0,"8,00","3,00",2,2,1,2.5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,2,0,0,"8,00","4,00",2,2,1,2.5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,3,2,0,0,"8,00","5,00",2,2,1,2.5yr5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,2,2,0,0,"9,00","6,00",2,2,1,10YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,2,6,0,0,"7,00","5,00",2,1,0,10YR6/2,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,1,6,0,0,"7,00","4,00",2,2,1,5yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"13,00","4,00",2,2,1,5YR4/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,2,0,0,"7,00","3,00",2,2,1,5YR4/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,0,0,0,"15,00","6,00",2,2,1,75yr4/6,0,4,3,1,0,No,0,No,Dentada estampado,No
+cuerpo,0,2,6,0,0,"6,00","3,00",2,2,1,2.5yr4/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,0,0,0,"13,00","3,00",2,2,1,10YR5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,0,0,0,"5,00","2,00",1,1,1,10yr5/2,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,0,0,1,"8,00","2,00",2,2,1,75yr4/2,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,4,0,0,"4,00","2,00",1,1,0,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,0,4,0,0,"6,00","5,00",2,2,0,5YR6/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,4,0,0,"9,00","3,00",2,2,1,5YR6/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,4,0,0,"8,00","4,00",2,2,1,5YR6/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,4,0,0,"7,00","4,00",2,2,1,5YR6/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,4,0,0,"9,00","3,00",2,2,1,5YR6/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,4,0,0,"8,00","3,00",2,2,1,5YR6/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,4,0,0,"6,00","3,00",2,2,1,5YR4/2,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,5,0,0,"7,00","5,00",2,2,1,2.5YR4/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,5,0,0,"4,00","3,00",2,2,1,2.5yr5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,0,5,0,0,"7,00","2,00",2,3,1,5yr5/4,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,0,2,0,0,"7,00","3,00",2,2,0,5Yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,0,2,0,0,"8,00","3,00",1,2,0,5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,0,2,0,0,"8,00","4,00",3,3,0,5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,2,0,0,"10,00","3,00",3,3,0,75yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,0,0,0,"7,00","4,00",2,2,1,10yr4/2,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,1,5,0,0,"6,00","4,00",3,3,1,75yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,2,0,0,"6,00","3,00",3,3,1,10yr4/2,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,5,0,0,"7,00","3,00",3,3,1,10yr6/3,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,0,0,0,"6,00","2,00",2,2,1,10yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,5,0,0,"7,00","3,00",2,2,2,10yr5/3,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,1,1,0,"10,00","3,00",2,2,1,75YR4/4,0,0,0,0,0,No,1,No,Sin identificar,No
+cuerpo,0,3,1,1,0,"10,00","3,00",2,2,1,75yr4/4,0,0,0,0,0,No,1,75yr3/2,Sin identificar,Café oscuro
+cuerpo,0,3,1,1,0,"12,00","3,00",2,2,1,5yr6/8,0,0,0,0,0,No,0,75yr3/2,Momil Rojo sencilla,Café oscuro
+cuerpo,0,3,1,1,0,"11,00","3,00",2,0,2,75yr4/2,0,9,0,0,0,No,1,75yr3/2,Sin identificar,Café oscuro
+cuerpo,0,3,1,1,0,"9,00","3,00",2,2,2,75yr4/2,0,9,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,3,1,1,0,"10,00","3,00",2,2,2,75YR4/2,0,9,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,3,1,1,0,"9,00","3,00",2,2,1,75yr5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,3,1,1,0,"12,00","3,00",2,0,1,5yr5/6,0,0,0,0,0,No,1,75yr3/2,Sin identificar,Café oscuro
+cuerpo,0,3,1,1,0,"11,00","4,00",0,2,0,5yr5/6,0,0,0,0,0,No,1,75yr3/2,Sin identificar,Café oscuro
+cuerpo,0,3,1,1,0,"12,00","5,00",2,2,1,5yr5/6,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,3,1,1,0,"10,00","5,00",2,0,1,5yr4/4,0,0,0,0,0,No,1,75yr3/2,Sin identificar,Café oscuro
+cuerpo,1,0,4,0,0,"6,00","5,00",2,2,1,5YR5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,0,4,0,0,"9,00","7,00",2,2,0,5yr5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,1,4,0,0,"6,00","4,00",3,3,1,5Yr5/6,0,0,0,0,3,Rojo amarilloso,0,No,Momil Rojo sencilla,No
+cuerpo,1,0,4,0,0,"8,00","3,00",1,3,0,75yr4/2,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,4,0,0,"8,00","5,00",3,3,0,75yr5/4,3,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,4,0,0,"7,00","5,00",3,3,0,75yr5/4,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,4,0,0,"7,00","5,00",3,3,0,75yr4/2,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,4,0,0,"9,00","4,00",1,2,0,10yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,4,0,0,"8,00","4,00",3,3,0,75yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,4,0,0,"7,00","5,00",3,3,0,75yr4/2,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,4,0,0,"7,00","5,00",3,3,0,5yr4/4,0,0,0,0,3,Café rojizo,0,No,Sin identificar,No
+cuerpo,1,0,4,0,0,"8,00","6,00",3,3,0,5yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,4,0,0,"7,00","6,00",3,3,0,5yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,1,0,0,"8,00","4,00",3,3,1,75yr4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,1,0,0,"7,00","4,00",3,3,1,75yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,1,0,0,"6,00","4,00",3,3,0,75yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,1,0,0,"7,00","4,00",3,3,1,75yr4/2,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,1,0,0,"7,00","5,00",3,3,0,75YR5/4,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,1,0,0,"7,00","5,00",3,3,0,75YR5/4,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,1,0,0,"7,00","3,00",3,3,0,75yr5/4,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,1,0,0,"7,00","3,00",3,3,0,75yr3/2,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,1,0,0,"7,00","3,00",3,3,0,75yr3/2,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,1,0,0,"13,00","4,00",1,1,0,75yr6/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,0,4,0,0,"6,00","3,00",2,2,0,75yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,0,0,0,"8,00","6,00",2,0,0,75YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,0,0,0,"7,00","5,00",2,2,0,75yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,0,0,0,"6,00","4,00",2,2,0,75yr4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,0,4,0,0,"9,00","4,00",2,2,0,5yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,0,4,0,0,"9,00","4,00",2,2,0,5yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,0,2,0,0,"7,00","5,00",2,2,1,75yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,0,0,0,"11,00","3,00",2,2,0,5YR5/4,0,7,8,1,0,No,0,No,Muescado,No
+cuerpo,1,0,0,0,0,"11,00","4,00",2,3,0,5yr5/4,0,7,8,1,0,No,0,No,Muescado,No
+cuerpo,0,3,4,1,2,"19,00","3,00",0,0,0,2.5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,3,4,1,2,"12,00","4,00",2,2,0,2.5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,3,4,1,2,"18,00","6,00",2,2,0,2.5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,3,4,1,2,"17,00","6,00",2,2,0,2.5YR5/8,1,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,4,1,2,"17,00","6,00",2,2,0,2.5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,4,1,2,"15,00","5,00",2,2,0,2.5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,4,1,2,"2,00","4,00",2,2,0,2.5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,4,1,2,"16,00","5,00",2,2,0,2.5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,1,5,0,0,"8,00","4,00",2,2,1,75yr4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,6,0,0,"8,00","6,00",2,2,1,75yr4/4,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,0,0,0,"9,00","4,00",2,2,0,75yr4/4,1,0,0,0,1,Café  ,0,No,Sin identificar,No
+cuerpo,0,1,4,0,0,"9,00","3,00",2,2,0,75yr4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,2,0,1,0,"9,00","6,00",2,2,0,5yr5/6,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,2,0,1,0,"9,00","4,00",1,2,0,75yr6/6,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,4,0,0,"10,00","3,00",2,2,0,5yr4/6,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,4,1,0,"10,00","2,00",2,2,1,5yr5/6,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,0,0,0,"11,00","3,00",2,2,0,5yr4/4,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,4,0,0,"9,00","5,00",2,2,1,5yr5/8,1,0,0,0,0,No,1,5yr4/2,Sin identificar,Café rojizo oscuro
+cuerpo,0,1,5,0,0,"8,00","4,00",2,1,1,75YR5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,5,0,0,"7,00","3,00",2,2,1,5YR5/8,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,5,0,0,"6,00","3,00",2,2,0,75yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,0,0,0,"9,00","2,00",2,2,1,75yr5/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,4,0,0,"10,00","5,00",2,2,1,5yr5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,0,0,0,0,"5,00","2,00",3,3,1,5yr5/8,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,0,0,0,"5,00","2,00",3,3,1,5yr5/8,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,0,5,0,0,"4,00","3,00",3,3,1,75yr5/6,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,0,0,0,"7,00","4,00",3,3,1,10yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,5,0,0,"6,00","3,00",3,3,1,2.5yr5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,4,0,0,"8,00","3,00",3,3,1,5YR5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,6,0,0,"7,00","3,00",3,3,1,5yr5/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"1,00","4,00",2,2,1,5yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"9,00","4,00",2,2,1,75yr4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,0,0,0,"9,00","3,00",2,1,2,75yr4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,2,3,0,0,"7,00","4,00",2,2,1,5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,2,2,1,0,"19,00","9,00",3,3,1,2.5yr4/6,0,0,0,0,2,Rojo  ,0,No,Momil Rojo sencilla,No
+cuerpo,0,3,5,0,0,"9,00","4,00",2,1,1,75yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,0,0,"8,00","4,00",2,2,1,5yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,4,0,0,"13,00","5,00",2,2,0,2.5yr4/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,0,0,0,"10,00","4,00",2,2,1,5yr5/8,0,0,0,0,3,Rojo amarilloso,0,No,Sin identificar,No
+cuerpo,1,0,2,0,0,"5,00","3,00",3,3,2,75YR4/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,2,0,0,"5,00","3,00",3,3,2,75yr4/3,0,7,8,1,0,No,0,No,Muescado,No
+cuerpo,1,0,2,0,0,"4,00","3,00",3,3,2,5yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,0,2,0,0,"5,00","3,00",3,3,2,5yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,2,2,0,0,"7,00","4,00",3,3,2,5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,6,0,0,"14,00","4,00",2,2,0,5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,1,6,0,0,"10,00","3,00",2,2,1,5yr5/8,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,5,0,0,"10,00","3,00",1,1,0,10yr6/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,1,5,0,0,"8,00","6,00",3,3,1,5yr5/8,3,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,1,5,0,0,"8,00","4,00",3,3,1,5yr5/8,1,0,0,0,2,Rojo amarilloso,0,No,Momil Rojo sencilla,No
+cuerpo,1,1,5,0,0,"12,00","5,00",3,3,1,5yr5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,1,1,5,0,0,"8,00","4,00",3,3,1,5yr5/8,3,0,0,0,2,Rojo amarilloso,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"11,00","3,00",3,3,1,75yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,4,0,0,"13,00","3,00",2,2,0,5YR6/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"12,00","4,00",2,2,1,75yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,5,0,0,"13,00","3,00",1,1,0,5yr6/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,3,5,0,0,"12,00","3,00",2,2,1,5yr6/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,0,0,"8,00","3,00",2,2,1,75yr5/6,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,0,0,"9,00","3,00",2,2,1,5yr5/6,1,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,2,0,0,"7,00","4,00",3,3,1,5yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,1,5,0,0,"8,00","3,00",3,3,1,5yr5/8,0,0,0,0,2,Rojo amarilloso,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,6,0,0,"5,00","2,00",3,3,1,75yr3/2,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"7,00","2,00",3,3,0,5yr4/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"11,00","3,00",2,2,1,5yr4/3,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,2,0,0,"5,00","3,00",2,2,1,75yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,2,0,0,"7,00","3,00",2,2,1,75YR5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"9,00","4,00",2,2,1,2.5yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"9,00","3,00",2,2,1,2.5YR5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,3,5,1,2,"9,00","3,00",2,2,1,2.5yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,3,5,1,2,"1,00","2,00",2,2,1,2.5yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,3,2,0,2,"8,00","3,00",2,2,1,5YR5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,3,6,0,0,"8,00","2,00",2,2,1,75YR4/4,3,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,2,0,0,"6,00","3,00",2,2,1,5yr4/8,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,6,0,0,"8,00","2,00",2,2,1,75yr6/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,6,0,0,"6,00","3,00",3,3,1,2.5yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,3,2,0,0,"8,00","3,00",2,1,1,2.5yr5/6,1,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,3,4,1,0,"10,00","4,00",2,1,0,2.5yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,1,2,5,0,0,"10,00","3,00",2,2,0,2.5yr5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,6,0,0,"7,00","3,00",2,2,0,75yr4/2,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,6,0,0,"5,00","3,00",2,2,0,5yr5/4,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,0,0,"9,00","5,00",2,3,1,75yr4/4,2,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,2,0,0,"7,00","3,00",3,2,0,5yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,2,2,0,0,"10,00","5,00",3,3,1,5yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,6,0,0,"7,00","2,00",3,3,1,5yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,5,0,0,"6,00","3,00",1,2,0,75yr4/4,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,6,0,0,"5,00","3,00",1,1,0,5yr5/6,0,0,0,0,0,No,0,No,Sin identificar,No
+cuerpo,0,1,6,0,0,"8,00","2,00",2,2,0,5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,1,6,0,0,"6,00","3,00",2,2,1,5YR5/8,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
+cuerpo,0,2,2,0,0,"6,00","3,00",2,2,1,5yr5/6,0,0,0,0,0,No,0,No,Momil Rojo sencilla,No
