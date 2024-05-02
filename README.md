@@ -3,7 +3,7 @@
 [![GitHub License](https://img.shields.io/github/license/Daniel-SanchezG/Un-modelo-de-juguete)](https://github.com/Daniel-SanchezG/Un-modelo-de-juguete/blob/main/LICENSE)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10155404.svg)](https://zenodo.org/records/11104413)
-
+[![Colab](https://img.shields.io/badge/Open%20in%20Colab-Blue)](https://colab.research.google.com/github/Daniel-SanchezG/Un-modelo-de-juguete/blob/main/CCA_Classif.ipynb#scrollTo=1af335cf-c756-446e-a419-df61ff4752e5)
 
 
 
