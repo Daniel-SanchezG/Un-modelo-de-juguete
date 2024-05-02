@@ -28,9 +28,9 @@
 ---
 | Nbviewer |
 | ---      |
-| [Model_development.ipynb](https://nbviewer.org/github/Daniel-SanchezG/MACLAS/blob/main/Model_development.ipynb) |
-| [Proof-of_concept.ipynb](https://nbviewer.org/github/Daniel-SanchezG/MACLAS/blob/main/Proof-of-concept.ipynb) |
-| [MACLAS model.ipynb](https://nbviewer.org/github/Daniel-SanchezG/MACLAS/blob/main/MACLAS.ipynb) |
+| [Preproceso.ipynb](https://nbviewer.org/github/Daniel-SanchezG/MACLAS/blob/main/Model_development.ipynb) |
+| [Fase No-supervisada.ipynb](https://nbviewer.org/github/Daniel-SanchezG/MACLAS/blob/main/Proof-of-concept.ipynb) |
+| [Fase Supervisada.ipynb](https://nbviewer.org/github/Daniel-SanchezG/MACLAS/blob/main/MACLAS.ipynb) |
 
 ---
 Para permitir la reproducibilidad del ejercicio, dejo un directorio con los datos usados para entrenar el modleo [data](./DATA/cuerpos_preprocessed.xlsx). 
