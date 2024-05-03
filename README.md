@@ -2,7 +2,7 @@
 
 [![GitHub License](https://img.shields.io/github/license/Daniel-SanchezG/Un-modelo-de-juguete)](https://github.com/Daniel-SanchezG/Un-modelo-de-juguete/blob/main/LICENSE)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10155404.svg)](https://zenodo.org/records/11104413)
+[![DOI](https://zenodo.org/badge/794728475.svg)](https://zenodo.org/doi/10.5281/zenodo.11108098)
 [![Colab](https://img.shields.io/badge/Open%20in%20Colab-Blue)](https://colab.research.google.com/github/Daniel-SanchezG/Un-modelo-de-juguete/blob/main/CCA_Classif.ipynb#scrollTo=1af335cf-c756-446e-a419-df61ff4752e5)
 
 
@@ -20,8 +20,7 @@
 
 
 ---
-
-* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Daniel-SanchezG/MACLAS/main) lanza una versión **interactiva** de Jupyter Lab version en tu navegador para que puedas explorar el ejercicio sin descargar nada.  
+  
 * Los enlaces de Nbviewer proveen una versión statica HTML de los notebooks.
 * Todos los cuadernos y datos pueden ser descargados directamente desde este repositorio. 
 
