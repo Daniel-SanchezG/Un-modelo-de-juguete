@@ -1,0 +1,579 @@
+Elemento,Coccion,T_desgrasante,Composicion,Densidad,Textura,Grosor₍mm),Tamaño(cm),Acabado_Interno,Acabado_Externo,Dureza,Color_Munsell,Ahumado,Tecnica,Elemento₁,Localizacion,Baño,Color_Baño,Engobe,Color_Engobe,Color_Eng _o_baño2
+cuerpo,Reductora,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Mas desgrasante,Compacta,"7,00","3,00",Fino,Fino,Raya con la uña,5YR6/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"12,00","5,00",Fino,Fino,Raya con la uña,2.5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Raya con la uña,2.5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Mas desgrasante,Compacta,"10,00","3,00",Erosionado,Erosionado,Dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","3,00",Erosionado,Fino,Raya con la uña,5YR5/6,No,Achurado cruzado,Linea,Externa,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"10,00","4,00",Fino,Fino,Dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Grueso,"Cuarzo,mica,máficos,félsicos y ferruginoso",Mas desgrasante,Compacta,"11,00","6,00",Burdo,Fino,Raya con la uña,5YR5/6,No,No,No,No,Externo,Rojo amarilloso,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Mas desgrasante,Compacta,"5,00","3,00",Erosionado,Erosionado,Raya con la uña,5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"6,00","3,00",Erosionado,Erosionado,Raya con la uña,5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Mas desgrasante,Compacta,"7,00","3,00",Fino,Fino,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"6,00","4,00",Fino,Fino,Dura,10YR3/1,Interno,Acanalada-punteada,Punto y linea,Externa,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"7,00","4,00",Pulido,Pulido,Raya con la uña,10YR6/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,mica,máficos,félsicos y ferruginoso",Mas desgrasante,Compacta,"13,00","5,00",Erosionado,Erosionado,Raya con la uña,5YR4/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"10,00","5,00",Fino,Fino,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,máficos,félsicos,ferruginoso y mica",Mas desgrasante,Compacta,"15,00","7,00",Erosionado,Erosionado,Raya con la uña,5YR6/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"5,00","4,00",Fino,Fino,Raya con la uña,5YR5/3,Extena,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"5,00","5,00",Fino,Fino,Raya con la uña,5YR5/3,Ambas,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"8,00","2,00",Fino,Fino,Dura,5YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,5YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,félsicos,máficos y mica",Equilibrado,Compacta,"6,00","3,00",Fino,Fino,Dura,75YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"6,00","3,00",Erosionado,Fino,Dura,10YR4/2,Extena,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"6,00","3,00",Erosionado,Pulido,Raya con la uña,10YR5/3,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"6,00","3,00",Erosionado,Erosionado,Raya con la uña,2.5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Grueso,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"7,00","4,00",Erosionado,Erosionado,Raya con la uña,5YR57/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","5,00",Fino,Fino,Dura,75YR4/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"11,00","5,00",Fino,Erosionado,Dura,75YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Mas desgrasante,Compacta,"5,00","2,00",Fino,Fino,Raya con la uña,75YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"6,00","3,00",Erosionado,Erosionado,Raya con la uña,75YR4/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"6,00","2,00",Erosionado,Erosionado,Raya con la uña,75YR4/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"6,00","3,00",Erosionado,Erosionado,Raya con la uña,75YR4/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,5YR4/4,Extena,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Grueso,"Cuarzo,félsicos,máficos y mica",Mas desgrasante,Compacta,"9,00","5,00",Erosionado,Erosionado,Raya con la uña,5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Mas desgrasante,Compacta,"6,00","3,00",Fino,Erosionado,Raya con la uña,5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Fino,Erosionado,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Mas desgrasante,Compacta,"10,00","3,00",Fino,Erosionado,Raya con la uña,5YR4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Erosionado,Fino,Dura,75YR6/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Mas desgrasante,Compacta,"8,00","3,00",Fino,Fino,Dura,75YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"10,00","3,00",Fino,Fino,Raya con la uña,5YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"10,00","3,00",Erosionado,Erosionado,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Muy  fino,"Cuarzo,félsicos,máficos y mica",Equilibrado,Compacta,"5,00","3,00",Pulido,Pulido,Raya con la uña,75YR4/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"8,00","5,00",Pulido,Pulido,Muy dura,2.5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Muy  fino,"Cuarzo,félsicos,máficos y mica",Equilibrado,Compacta,"5,00","3,00",Pulido,Pulido,Raya con la uña,75YR4/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"10,00","3,00",Pulido,Pulido,Raya con la uña,10YR6/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"10,00","4,00",Pulido,Pulido,Raya con la uña,10YR6/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos,máficos y mica",Equilibrado,Compacta,"7,00","4,00",Pulido,Pulido,Raya con la uña,75YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"11,00","3,00",Pulido,Pulido,Dura,75YR4/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"6,00","2,00",Fino,Fino,Raya con la uña,75YR4/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","2,00",Erosionado,Erosionado,Raya con la uña,75YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Mas desgrasante,Compacta,"8,00","3,00",Erosionado,Erosionado,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,máficos,félsicos,ferruginoso y mica",Mas desgrasante,Compacta,"11,00","4,00",Erosionado,Burdo,Dura,5YR474,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Mas desgrasante,Compacta,"8,00","3,00",Fino,Erosionado,Raya con la uña,5YR4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Muy  fino,"Cuarzo,félsicos,máficos y mica",Equilibrado,Compacta,"6,00","3,00",Erosionado,Pulido,Raya con la uña,10YR6/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"10,00","4,00",Fino,Fino,Raya con la uña,5YR576,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"4,00","4,00",Pulido,Pulido,Raya con la uña,10YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","5,00",Fino,Fino,Raya con la uña,2.5YR4/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"9,00","3,00",Erosionado,Fino,Raya con la uña,75YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","3,00",Pulido,Fino,Raya con la uña,5YR4/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"5,00","3,00",Erosionado,Pulido,Dura,75YR4/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Mas desgrasante,Compacta,"6,00","2,00",Erosionado,Erosionado,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos,máficos y mica",Equilibrado,Compacta,"7,00","3,00",Erosionado,Pulido,Raya con la uña,10YR6/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"11,00","4,00",Fino,Fino,Dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"10,00","3,00",Fino,Erosionado,Raya con la uña,75YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Mas desgrasante,Compacta,"5,00","3,00",Erosionado,Erosionado,Raya con la uña,75YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos,máficos y mica",Equilibrado,Compacta,"6,00","3,00",Fino,Fino,Raya con la uña,5YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","2,00",Fino,Fino,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Grueso,"Cuarzo,félsicos y máficos",Mas desgrasante,Compacta,"7,00","4,00",Fino,Fino,Raya con la uña,75YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","4,00",Fino,Erosionado,Dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos,máficos y mica",Equilibrado,Compacta,"7,00","4,00",Pulido,Pulido,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"5,00","2,00",Pulido,Pulido,Dura,75YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","3,00",Pulido,Pulido,Raya con la uña,75YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","4,00",Fino,Fino,Raya con la uña,75YR6/8,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"4,00","3,00",Erosionado,Erosionado,Raya con la uña,10YR5/2,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"7,00","7,00",Fino,Fino,Dura,10YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"8,00","4,00",Fino,Fino,Dura,10YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"6,00","4,00",Fino,Fino,Dura,10YR4/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"6,00","3,00",Pulido,Pulido,Dura,75YR4/4,Extena,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"7,00","2,00",Fino,Pulido,Dura,10YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,75YR4/4,Interno,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"8,00","5,00",Fino,Fino,Dura,75YR4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,75YR4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"8,00","4,00",Fino,Fino,Dura,75YR4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,75YR4/4,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"6,00","3,00",Fino,Fino,Dura,75YR4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos y mica",Equilibrado,Compacta,"8,00","3,00",Fino,Erosionado,Dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"6,00","3,00",Fino,Fino,Raya con la uña,5YR4/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos y mica",Mas desgrasante,Compacta,"7,00","2,00",Erosionado,Erosionado,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,75YR4/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"8,00","4,00",Fino,Fino,Dura,5YR5/4,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,75YR4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos y máficos",Mas desgrasante,Compacta,"7,00","3,00",Erosionado,Erosionado,Raya con la uña,5YR6/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Raya con la uña,5YR6/8,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"10,00","3,00",Erosionado,Fino,Raya con la uña,5YR6/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"8,00","3,00",Erosionado,Pulido,Dura,75YR4/2,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"9,00","2,00",Fino,Fino,Dura,5YR4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,75YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"9,00","3,00",Fino,Fino,Dura,5YR5/6,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Mas desgrasante,Compacta,"10,00","3,00",Fino,Fino,Raya con la uña,75YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Mas desgrasante,Compacta,"9,00","3,00",Fino,Fino,Dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Mas desgrasante,Compacta,"8,00","3,00",Fino,Erosionado,Dura,5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Mas desgrasante,Compacta,"7,00","2,00",Erosionado,Pulido,Raya con la uña,5YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Mas desgrasante,Compacta,"7,00","4,00",Fino,Fino,Dura,5YR4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Mas desgrasante,Compacta,"5,00","3,00",Fino,Fino,Dura,5YR4/8,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"8,00","3,00",Pulido,Pulido,Dura,75YR4/2,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Mas desgrasante,Compacta,"6,00","3,00",Erosionado,Erosionado,Dura,10YR6/2,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"9,00","4,00",Erosionado,Fino,Dura,10YR472,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Grueso,"Cuarzo,máficos,félsicos,ferruginoso",Mas desgrasante,Compacta,"16,00","6,00",Fino,Fino,Dura,10YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos y máficos",Mas desgrasante,Compacta,"14,00","3,00",Erosionado,Erosionado,Raya con la uña,5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos y máficos",Mas desgrasante,Compacta,"16,00","3,00",Erosionado,Erosionado,Raya con la uña,5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"10,00","4,00",Fino,Fino,Dura,75YR4/2,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"10,00","3,00",Fino,Fino,Dura,75YR4/2,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"10,00","3,00",Fino,Pulido,Dura,10YR7/4,Interno,Impresión,Puntos,Externa,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"19,00","4,00",Fino,Fino,Dura,5YR4/6,No,Aplicación,Indeterminado,Externa,No,No,No,No,No
+cuerpo,Oxidante,Muy  fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"5,00","2,00",Pulido,Pulido,Raya con la uña,5YR4/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"8,00","2,00",Erosionado,Fino,Dura,75YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Muy  fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"5,00","2,00",Pulido,Pulido,Dura,75YR5/3,Extena,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"6,00","2,00",Pulido,Pulido,Dura,75YR4/2,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Grueso,"Cuarzo,félsicos y máficos",Mas desgrasante,Compacta,"10,00","5,00",Fino,Fino,Dura,75YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,75YR4/3,Interno,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"6,00","3,00",Fino,Fino,Dura,10YR4/2,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"8,00","3,00",Pulido,Pulido,Dura,10YR5/2,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"8,00","4,00",Erosionado,Pulido,Dura,10YR5/2,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"6,00","3,00",Pulido,Pulido,Dura,10YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Mas desgrasante,Compacta,"6,00","3,00",Erosionado,Erosionado,Raya con la uña,5YR4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Mas desgrasante,Compacta,"6,00","3,00",Fino,Fino,Dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,5YR4/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"8,00","3,00",Erosionado,Fino,Dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"7,00","2,00",Fino,Fino,Dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"6,00","2,00",Erosionado,Erosionado,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"7,00","4,00",Pulido,Pulido,Dura,10YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"5,00","3,00",Pulido,Pulido,Dura,10YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"10,00","3,00",Fino,Fino,Dura,2.5YR4/6,No,Achurado cruzado,Linea,Externa,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"6,00","3,00",Fino,Fino,Dura,75YR4/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"9,00","3,00",Fino,Fino,Dura,75YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,75YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"9,00","3,00",Fino,Fino,Dura,75YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","4,00",Fino,Fino,Dura,75YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,75YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"11,00","3,00",Fino,Fino,Dura,75YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,75YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"9,00","4,00",Fino,Fino,Dura,75YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"9,00","3,00",Fino,Fino,Dura,75YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"9,00","3,00",Fino,Fino,Dura,75YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,75YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"10,00","4,00",Fino,Fino,Dura,75YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"9,00","3,00",Fino,Fino,Dura,75YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"9,00","3,00",Fino,Fino,Dura,75YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"9,00","3,00",Fino,Fino,Dura,75YR5/3,Extena,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"9,00","3,00",Fino,Fino,Dura,75YR5/3,Extena,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"9,00","3,00",Fino,Fino,Dura,75YR5/3,Extena,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"9,00","2,00",Fino,Fino,Dura,75YR5/3,Extena,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"9,00","3,00",Fino,Fino,Dura,75YR5/3,Extena,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","2,00",Fino,Fino,Dura,75YR5/3,Interno,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,75YR5/3,Extena,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"11,00","3,00",Fino,Fino,Dura,75YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"10,00","3,00",Fino,Fino,Dura,75YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"9,00","4,00",Fino,Fino,Dura,75YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,félsicos y máficos",Mas desgrasante,Compacta,"11,00","3,00",Erosionado,Erosionado,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Mas desgrasante,Compacta,"8,00","3,00",Erosionado,Fino,Dura,75YR6/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"12,00","3,00",Fino,Fino,Dura,75YR6/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,75YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"11,00","4,00",Fino,Fino,Dura,75YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"10,00","4,00",Fino,Fino,Dura,10YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"14,00","2,00",Fino,Fino,Raya con la uña,5YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Muy dura,75YR5/4,Interno,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"5,00","5,00",Pulido,Pulido,Muy dura,75YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,félsicos y máficos",Mas desgrasante,Compacta,"11,00","4,00",Pulido,Fino,Muy dura,10YR5/2,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,máficos, mica,félsicos y ferruginoso",Mas desgrasante,Compacta,"11,00","3,00",Pulido,Pulido,Muy dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"8,00","3,00",Erosionado,Erosionado,Raya con la uña,10YR4/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"6,00","3,00",Fino,Fino,Dura,75YR5/4,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"11,00","4,00",Fino,Fino,Dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"10,00","2,00",Fino,Fino,Dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"9,00","3,00",Fino,Fino,Dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"9,00","3,00",Erosionado,Fino,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"11,00","2,00",Erosionado,Erosionado,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"14,00","3,00",Erosionado,Erosionado,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"7,00","2,00",Erosionado,Erosionado,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","2,00",Erosionado,Erosionado,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,mica,máficos,félsicos y ferruginoso",Mas desgrasante,Compacta,"10,00","5,00",Erosionado,Erosionado,Dura,5YR4/4,Extena,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos y máficos",Mas desgrasante,Compacta,"9,00","4,00",Fino,Erosionado,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos y máficos",Mas desgrasante,Compacta,"7,00","3,00",Erosionado,Erosionado,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos y máficos",Mas desgrasante,Compacta,"7,00","4,00",Erosionado,Erosionado,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos y máficos",Mas desgrasante,Compacta,"10,00","3,00",Erosionado,Fino,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos y máficos",Mas desgrasante,Compacta,"9,00","4,00",Fino,Erosionado,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos y máficos",Mas desgrasante,Compacta,"7,00","4,00",Fino,Erosionado,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Mas desgrasante,Compacta,"6,00","3,00",Fino,Fino,Dura,5YR5/6,Extena,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"5,00","2,00",Pulido,Pulido,Raya con la uña,5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"5,00","3,00",Pulido,Pulido,Raya con la uña,5YR5/6,No,Perforado,Circulo,Ambas,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"6,00","2,00",Pulido,Pulido,Raya con la uña,75YR5/4,Extena,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"6,00","3,00",Pulido,Pulido,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Mas desgrasante,Compacta,"14,00","3,00",Fino,Erosionado,Raya con la uña,5YR4/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Muy  fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"4,00","2,00",Erosionado,Erosionado,Raya con la uña,75YR4/2,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"9,00","6,00",Erosionado,Pulido,Dura,75YR6/6,Interno,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Mas desgrasante,Compacta,"5,00","3,00",Erosionado,Erosionado,Raya con la uña,2.5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,félsicos y máficos",Mas desgrasante,Compacta,"9,00","7,00",Burdo,Burdo,Raya con la uña,75YR5/3,Interno,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,félsicos y máficos",Mas desgrasante,Compacta,"10,00","5,00",Burdo,Burdo,Raya con la uña,75YR5/3,Interno,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,félsicos y máficos",Mas desgrasante,Compacta,"12,00","7,00",Fino,Fino,Raya con la uña,75YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,félsicos y máficos",Mas desgrasante,Compacta,"7,00","3,00",Fino,Fino,Raya con la uña,75YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,75YR4/2,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","4,00",Fino,Fino,Dura,75YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos, ferruginoso y mica",Mas desgrasante,Compacta,"8,00","3,00",Erosionado,Erosionado,Raya con la uña,2.5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"10,00","4,00",Fino,Fino,Dura,2.5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos, ferruginoso y mica",Mas desgrasante,Compacta,"8,00","3,00",Erosionado,Erosionado,Raya con la uña,2.5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","2,00",Erosionado,Erosionado,Raya con la uña,2.5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos y mica",Equilibrado,Compacta,"8,00","2,00",Fino,Erosionado,Raya con la uña,2.5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Muy  fino,"Cuarzo,félsicos,máficos y mica",Equilibrado,Compacta,"5,00","3,00",Pulido,Pulido,Raya con la uña,75YR3/2,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Mas desgrasante,Compacta,"6,00","3,00",Fino,Fino,Dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"6,00","2,00",Fino,Fino,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"6,00","2,00",Fino,Fino,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"7,00","6,00",Erosionado,Erosionado,Dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"4,00","2,00",Erosionado,Erosionado,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"10,00","3,00",Fino,Fino,Dura,5YR5/6,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"6,00","2,00",Erosionado,Erosionado,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"9,00","2,00",Fino,Fino,Dura,5YR4/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Mas desgrasante,Compacta,"8,00","2,00",Fino,Erosionado,Raya con la uña,5YR4/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,5YR4/4,Extena,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"12,00","3,00",Erosionado,Fino,Raya con la uña,2.5YR4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","3,00",Erosionado,Erosionado,Dura,75YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos, mica,félsicos y ferruginoso",Mas desgrasante,Compacta,"11,00","5,00",Erosionado,Fino,Dura,75YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"9,00","2,00",Fino,Fino,Dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"9,00","3,00",Fino,Erosionado,Dura,5YR5/6,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Erosionado,Fino,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,75YR3/2,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos, mica,félsicos y ferruginoso",Mas desgrasante,Compacta,"7,00","3,00",Erosionado,Erosionado,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Mas desgrasante,Compacta,"5,00","3,00",Fino,Fino,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"7,00","4,00",Fino,Fino,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"6,00","2,00",Fino,Fino,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"9,00","3,00",Fino,Fino,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"6,00","2,00",Fino,Erosionado,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"6,00","2,00",Fino,Fino,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"5,00","3,00",Fino,Fino,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,75YR4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"5,00","3,00",Fino,Fino,Dura,75YR4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"4,00","3,00",Pulido,Pulido,Dura,75YR4/4,No,Dentada ranurada,Dientes,Externa,Externo,Café,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Friable,"6,00","2,00",Fino,Fino,Raya con la uña,75YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos,máficos y mica",Equilibrado,Compacta,"7,00","5,00",Fino,Fino,Raya con la uña,75YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"5,00","4,00",Erosionado,Erosionado,Raya con la uña,5YR6/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"6,00","2,00",Pulido,Erosionado,Raya con la uña,5YR6/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"12,00","3,00",Fino,Fino,Dura,75YR6/6,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Raya con la uña,75yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Mas desgrasante,Compacta,"9,00","4,00",Fino,Fino,Dura,5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Mas desgrasante,Compacta,"11,00","3,00",Fino,Fino,Dura,5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Mas desgrasante,Compacta,"12,00","4,00",Erosionado,Fino,Dura,5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","4,00",Fino,Fino,Dura,5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"6,00","4,00",Fino,Fino,Dura,5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","5,00",Fino,Fino,Dura,5YR5/8,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Raya con la uña,5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","7,00",Fino,Erosionado,Dura,5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","2,00",Pulido,Pulido,Dura,75YR4/6,Extena,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Pulido,Pulido,Dura,5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Mas desgrasante,Compacta,"10,00","3,00",Erosionado,Erosionado,Dura,75yr56/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,máficos,félsicos,ferruginoso y mica",Mas desgrasante,Compacta,"12,00","4,00",Erosionado,Erosionado,Dura,75yt6/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,máficos,félsicos,ferruginoso y mica",Mas desgrasante,Compacta,"9,00","3,00",Erosionado,Fino,Dura,5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"5,00","3,00",Erosionado,Erosionado,Dura,5YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"5,00","3,00",Erosionado,Fino,Dura,5yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Erosionado,Fino,Dura,5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,máficos,félsicos,ferruginoso y mica",Mas desgrasante,Compacta,"7,00","3,00",Erosionado,Erosionado,Dura,5yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","4,00",Fino,Fino,Dura,5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos, ferruginoso y mica",Mas desgrasante,Compacta,"9,00","3,00",Fino,Erosionado,Raya con la uña,5yr5/4,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","4,00",Fino,Fino,Dura,75YR4/4,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"6,00","2,00",Pulido,Pulido,Dura,75YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"12,00","3,00",Fino,Fino,Dura,5YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Grueso,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"10,00","3,00",Fino,Erosionado,Dura,5YR6/8,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"6,00","2,00",Fino,Fino,Dura,75yr5/6,Extena,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","3,00",Erosionado,Fino,Muy dura,75yr4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Grueso,"Cuarzo,máficos,félsicos,ferruginoso y mica",Mas desgrasante,Compacta,"9,00","3,00",Erosionado,Erosionado,Raya con la uña,75yr6/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","3,00",Fino,Erosionado,Dura,75yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"6,00","3,00",Fino,Fino,Dura,5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"7,00","2,00",Fino,Pulido,Dura,74yr4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos, ferruginoso y mica",Mas desgrasante,Compacta,"9,00","4,00",Fino,Fino,Dura,5yr6/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","5,00",Fino,Fino,Dura,5yr6/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","4,00",Erosionado,Erosionado,Raya con la uña,5yr6/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"8,00","2,00",Erosionado,Fino,Dura,5yr6/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"1,00","3,00",Erosionado,Fino,Dura,5yr6/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"11,00","3,00",Fino,Fino,Dura,5YR4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"9,00","4,00",Fino,Fino,Dura,5yr6/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","4,00",Fino,Fino,Dura,5YR4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"9,00","3,00",Fino,Fino,Dura,5YR4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,5YR4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,5YR4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Raya con la uña,5YR4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"8,00","2,00",Fino,Fino,Dura,5YR4/4,Extena,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Erosionado,Erosionado,Raya con la uña,5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"6,00","4,00",Fino,Fino,Dura,5YR4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"5,00","3,00",Erosionado,Fino,Dura,5YR4/4,Extena,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"6,00","3,00",Fino,Fino,Dura,5YR4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","2,00",Fino,Fino,Raya con la uña,5yr5/4,No,Dentada ranurada,Dientes,Externa,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Friable,"9,00","2,00",Fino,Erosionado,Raya con la uña,5yr6/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,Café rojizo,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"8,00","3,00",Pulido,Pulido,Dura,5YR4/4,No,No,No,No,ambas,café,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,75yr4/2,Extena,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,75yr4/2,Extena,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"10,00","3,00",Fino,Fino,Dura,75yr5/4,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Mas desgrasante,Compacta,"11,00","4,00",Fino,Fino,Dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","2,00",Fino,Fino,Dura,5yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Raya con la uña,5YR576,Extena,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"6,00","3,00",Fino,Fino,Raya con la uña,5YR5/6,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","3,00",Erosionado,Erosionado,Raya con la uña,5yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,5yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"6,00","2,00",Fino,Fino,Dura,5yr4/3,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"6,00","3,00",Fino,Fino,Dura,5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"10,00","4,00",Fino,Fino,Dura,2.5yr5/8,Extena,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"5,00","3,00",Fino,Fino,Dura,10yr6/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"6,00","2,00",Fino,Fino,Dura,75yr4/2,ambas,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"6,00","3,00",Fino,Fino,Dura,75yr5/4,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"8,00","3,00",Erosionado,Erosionado,Raya con la uña,2.5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos, ferruginoso y mica",Mas desgrasante,Compacta,"9,00","3,00",Fino,Fino,Dura,2.5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos, ferruginoso y mica",Mas desgrasante,Compacta,"10,00","3,00",Erosionado,Erosionado,Raya con la uña,2.5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"6,00","2,00",Fino,Fino,Dura,5yr4/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","4,00",Fino,Fino,Dura,5YR4/3,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"9,00","2,00",Fino,Fino,Dura,5YR6/6,No,Dentada ranurada,Dientes,Externa,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"6,00","4,00",Fino,Fino,Dura,5yr6/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"9,00","3,00",Fino,Fino,Dura,5yr5/6,No,Incisa ancha,lineas,Externa,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,5yr4/6,Interno,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"8,00","3,00",Erosionado,Erosionado,Dura,10yr6/2,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"6,00","3,00",Pulido,Pulido,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"6,00","2,00",Fino,Fino,Dura,5YR3/2,Extena,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,2.5yr4/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"6,00","3,00",Fino,Fino,Dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"7,00","4,00",Fino,Fino,Dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","2,00",Fino,Fino,Dura,5yr6/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"6,00","4,00",Fino,Fino,Dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,máficos,félsicos,ferruginoso y mica",Mas desgrasante,Compacta,"9,00","3,00",Erosionado,Erosionado,Raya con la uña,2.5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Raya con la uña,2.5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,10yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,10yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"9,00","3,00",Fino,Fino,Dura,75yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,10yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"9,00","4,00",Fino,Fino,Raya con la uña,75yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"10,00","2,00",Fino,Fino,Dura,10yr5/3,No,Dentada ranurada,Dientes,Externa,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"6,00","2,00",Pulido,Pulido,Dura,10yr5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"10,00","3,00",Pulido,Pulido,Dura,5YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"8,00","4,00",Fino,Fino,Dura,5yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,5yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"8,00","3,00",Fino,Erosionado,Dura,5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,75yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","2,00",Fino,Fino,Muy dura,5yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,5yr5/4,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"9,00","3,00",Fino,Fino,Raya con la uña,75yr6/4,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos,máficos y mica",Equilibrado,Compacta,"7,00","2,00",Pulido,Pulido,Dura,10yr6/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos y mica",Equilibrado,Compacta,"10,00","3,00",Fino,Pulido,Dura,75yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"6,00","2,00",Pulido,Pulido,Dura,75yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","3,00",Pulido,Fino,Muy dura,75yr5/4,Extena,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,75yr4/4,ambas,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","2,00",Fino,Fino,Dura,5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"6,00","2,00",Fino,Erosionado,Raya con la uña,75yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Erosionado,Fino,Dura,75yr4/2,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"5,00","2,00",Pulido,Fino,Dura,75yr4/2,Extena,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Friable,"6,00","2,00",Erosionado,Erosionado,Raya con la uña,5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"9,00","3,00",Fino,Erosionado,Dura,5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,2.5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"9,00","3,00",Erosionado,Fino,Dura,75yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"9,00","3,00",Erosionado,Fino,Dura,10yr4/2,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"4,00","4,00",Erosionado,Fino,Dura,75yr4/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"9,00","3,00",Erosionado,Erosionado,Dura,75YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos y mica",Equilibrado,Friable,"6,00","3,00",Erosionado,Erosionado,Raya con la uña,5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"6,00","3,00",Fino,Fino,Dura,74yr4/2,Extena,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"4,00","2,00",Erosionado,Erosionado,Raya con la uña,10yr6/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"5,00","2,00",Erosionado,Erosionado,Raya con la uña,75YR4/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"6,00","3,00",Erosionado,Erosionado,Raya con la uña,5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"5,00","3,00",Erosionado,Fino,Dura,75YR5/3,Extena,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","2,00",Erosionado,Erosionado,Dura,75yr4/2,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"8,00","2,00",Erosionado,Erosionado,Dura,5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"7,00","2,00",Fino,Erosionado,Raya con la uña,5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"4,00","3,00",Erosionado,Fino,Raya con la uña,10yr3/2,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos, ferruginoso y mica",Mas desgrasante,Compacta,"8,00","5,00",Erosionado,Erosionado,Raya con la uña,5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"6,00","3,00",Erosionado,Erosionado,Raya con la uña,5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"9,00","3,00",Erosionado,Erosionado,Dura,5yr6/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","4,00",Fino,Erosionado,Raya con la uña,5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","2,00",Erosionado,Erosionado,Raya con la uña,5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","3,00",Erosionado,Erosionado,Raya con la uña,5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Muy  fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"4,00","3,00",Erosionado,Fino,Dura,5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","2,00",Erosionado,Erosionado,Dura,5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"6,00","3,00",Fino,Fino,Dura,75YR4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,75yr4/4,No,Dentada ranurada,Dientes,Externa,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"6,00","3,00",Fino,Fino,Dura,75yr4/4,Extena,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Pulido,Pulido,Dura,2.5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"6,00","3,00",Erosionado,Pulido,Dura,75yr476,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,2.5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"6,00","2,00",Fino,Fino,Dura,2.5yr5/6,No,Dentada ranurada,Dientes,Externa,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"5,00","3,00",Pulido,Pulido,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos y mica",Equilibrado,Compacta,"10,00","3,00",Fino,Fino,Dura,75yr4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,75yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"12,00","4,00",Fino,Fino,Raya con la uña,2.5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","5,00",Pulido,Pulido,Dura,5YR4/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","2,00",Fino,Fino,Dura,75yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"6,00","2,00",Erosionado,Fino,Dura,75yr4/2,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","2,00",Fino,Fino,Dura,75yr4/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,75yr4/2,ambas,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"7,00","2,00",Fino,Fino,Dura,75yr6/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"8,00","4,00",Fino,Fino,Dura,5yr5/6,Interno,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","2,00",Fino,Fino,Raya con la uña,5yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,75YR6/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"9,00","3,00",Fino,Fino,Dura,5yr4/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","4,00",Fino,Fino,Dura,75YR4/2,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"6,00","2,00",Fino,Pulido,Dura,75yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"6,00","3,00",Fino,Fino,Dura,5yr6/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"8,00","3,00",Erosionado,Fino,Dura,75yr6/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Erosionado,Fino,Dura,74yr4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,máficos,félsicos,ferruginoso y mica",Mas desgrasante,Compacta,"5,00","3,00",Erosionado,Erosionado,Raya con la uña,5yr6/8,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,félsicos y máficos",Mas desgrasante,Compacta,"8,00","2,00",Erosionado,Erosionado,Raya con la uña,5yr6/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,5yr6/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,5YR6/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","3,00",Erosionado,Fino,Dura,2.5yr5/6,No,Dentada ranurada,Dientes,Externa,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"8,00","4,00",Fino,Fino,Dura,10yr6/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"8,00","4,00",Fino,Fino,Dura,2.5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,2.5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,2.5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,2.5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"8,00","4,00",Fino,Fino,Dura,2.5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Grueso,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"8,00","5,00",Fino,Fino,Dura,2.5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"9,00","6,00",Fino,Fino,Dura,10YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","5,00",Fino,Erosionado,Raya con la uña,10YR6/2,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","4,00",Fino,Fino,Dura,5yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"13,00","4,00",Fino,Fino,Dura,5YR4/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,5YR4/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"15,00","6,00",Fino,Fino,Dura,75yr4/6,No,Dentada ranurada,Dientes,Externa,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"6,00","3,00",Fino,Fino,Dura,2.5yr4/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"13,00","3,00",Fino,Fino,Dura,10YR5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"5,00","2,00",Erosionado,Erosionado,Dura,10yr5/2,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Friable,"8,00","2,00",Fino,Fino,Dura,75yr4/2,Extena,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"4,00","2,00",Erosionado,Erosionado,Raya con la uña,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"6,00","5,00",Fino,Fino,Raya con la uña,5YR6/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"9,00","3,00",Fino,Fino,Dura,5YR6/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"8,00","4,00",Fino,Fino,Dura,5YR6/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"7,00","4,00",Fino,Fino,Dura,5YR6/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"9,00","3,00",Fino,Fino,Dura,5YR6/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,5YR6/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"6,00","3,00",Fino,Fino,Dura,5YR4/2,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"7,00","5,00",Fino,Fino,Dura,2.5YR4/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"4,00","3,00",Fino,Fino,Dura,2.5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"7,00","2,00",Fino,Pulido,Dura,5yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Muy  fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Raya con la uña,5Yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Muy  fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"8,00","3,00",Erosionado,Fino,Raya con la uña,5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Muy  fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"8,00","4,00",Pulido,Pulido,Raya con la uña,5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"10,00","3,00",Pulido,Pulido,Raya con la uña,75yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"7,00","4,00",Fino,Fino,Dura,10yr4/2,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"6,00","4,00",Pulido,Pulido,Dura,75yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"6,00","3,00",Pulido,Pulido,Dura,10yr4/2,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Pulido,Pulido,Dura,10yr6/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"6,00","2,00",Fino,Fino,Dura,10yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Muy dura,10yr5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos y mica",Mas desgrasante,Compacta,"10,00","3,00",Fino,Fino,Dura,75YR4/4,No,No,No,No,No,No,interna,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos y mica",Mas desgrasante,Compacta,"10,00","3,00",Fino,Fino,Dura,75yr4/4,No,No,No,No,No,No,interna,75yr3/2,Café oscuro
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos y mica",Mas desgrasante,Compacta,"12,00","3,00",Fino,Fino,Dura,5yr6/8,No,No,No,No,No,No,No,75yr3/2,Café oscuro
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos y mica",Mas desgrasante,Compacta,"11,00","3,00",Fino,Burdo,Muy dura,75yr4/2,No,Pintura,No,No,No,No,interna,75yr3/2,Café oscuro
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos y mica",Mas desgrasante,Compacta,"9,00","3,00",Fino,Fino,Muy dura,75yr4/2,No,Pintura,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos y mica",Mas desgrasante,Compacta,"10,00","3,00",Fino,Fino,Muy dura,75YR4/2,No,Pintura,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos y mica",Mas desgrasante,Compacta,"9,00","3,00",Fino,Fino,Dura,75yr5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos y mica",Mas desgrasante,Compacta,"12,00","3,00",Fino,Burdo,Dura,5yr5/6,No,No,No,No,No,No,interna,75yr3/2,Café oscuro
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos y mica",Mas desgrasante,Compacta,"11,00","4,00",Burdo,Fino,Raya con la uña,5yr5/6,No,No,No,No,No,No,interna,75yr3/2,Café oscuro
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos y mica",Mas desgrasante,Compacta,"12,00","5,00",Fino,Fino,Dura,5yr5/6,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos y mica",Mas desgrasante,Compacta,"10,00","5,00",Fino,Burdo,Dura,5yr4/4,No,No,No,No,No,No,interna,75yr3/2,Café oscuro
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"6,00","5,00",Fino,Fino,Dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"9,00","7,00",Fino,Fino,Raya con la uña,5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"6,00","4,00",Pulido,Pulido,Dura,5Yr5/6,No,No,No,No,Ambas,Rojo amarilloso,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"8,00","3,00",Erosionado,Pulido,Raya con la uña,75yr4/2,Extena,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"8,00","5,00",Pulido,Pulido,Raya con la uña,75yr5/4,ambas,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"7,00","5,00",Pulido,Pulido,Raya con la uña,75yr5/4,Extena,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"7,00","5,00",Pulido,Pulido,Raya con la uña,75yr4/2,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"9,00","4,00",Erosionado,Fino,Raya con la uña,10yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"8,00","4,00",Pulido,Pulido,Raya con la uña,75yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"7,00","5,00",Pulido,Pulido,Raya con la uña,75yr4/2,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"7,00","5,00",Pulido,Pulido,Raya con la uña,5yr4/4,No,No,No,No,Ambas,Café rojizo,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"8,00","6,00",Pulido,Pulido,Raya con la uña,5yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"7,00","6,00",Pulido,Pulido,Raya con la uña,5yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos,máficos y mica",Equilibrado,Compacta,"8,00","4,00",Pulido,Pulido,Dura,75yr4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos,máficos y mica",Equilibrado,Compacta,"7,00","4,00",Pulido,Pulido,Dura,75yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos,máficos y mica",Equilibrado,Compacta,"6,00","4,00",Pulido,Pulido,Raya con la uña,75yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos,máficos y mica",Equilibrado,Compacta,"7,00","4,00",Pulido,Pulido,Dura,75yr4/2,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos,máficos y mica",Equilibrado,Compacta,"7,00","5,00",Pulido,Pulido,Raya con la uña,75YR5/4,Interno,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos,máficos y mica",Equilibrado,Compacta,"7,00","5,00",Pulido,Pulido,Raya con la uña,75YR5/4,Interno,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos,máficos y mica",Equilibrado,Compacta,"7,00","3,00",Pulido,Pulido,Raya con la uña,75yr5/4,Interno,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos,máficos y mica",Equilibrado,Compacta,"7,00","3,00",Pulido,Pulido,Raya con la uña,75yr3/2,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos,máficos y mica",Equilibrado,Compacta,"7,00","3,00",Pulido,Pulido,Raya con la uña,75yr3/2,Interno,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos,máficos y mica",Equilibrado,Compacta,"13,00","4,00",Erosionado,Erosionado,Raya con la uña,75yr6/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"6,00","3,00",Fino,Fino,Raya con la uña,75yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"8,00","6,00",Fino,Burdo,Raya con la uña,75YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"7,00","5,00",Fino,Fino,Raya con la uña,75yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"6,00","4,00",Fino,Fino,Raya con la uña,75yr4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"9,00","4,00",Fino,Fino,Raya con la uña,5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"9,00","4,00",Fino,Fino,Raya con la uña,5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Muy  fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","5,00",Fino,Fino,Dura,75yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"11,00","3,00",Fino,Fino,Raya con la uña,5YR5/4,No,Muescado,Uña,Externa,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"11,00","4,00",Fino,Pulido,Raya con la uña,5yr5/4,No,Muescado,Uña,Externa,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,máficos,félsicos,ferruginoso",Mas desgrasante,Granulosa,"19,00","3,00",Burdo,Burdo,Raya con la uña,2.5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Grueso,"Cuarzo,máficos,félsicos,ferruginoso",Mas desgrasante,Granulosa,"12,00","4,00",Fino,Fino,Raya con la uña,2.5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Grueso,"Cuarzo,máficos,félsicos,ferruginoso",Mas desgrasante,Granulosa,"18,00","6,00",Fino,Fino,Raya con la uña,2.5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Grueso,"Cuarzo,máficos,félsicos,ferruginoso",Mas desgrasante,Granulosa,"17,00","6,00",Fino,Fino,Raya con la uña,2.5YR5/8,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,máficos,félsicos,ferruginoso",Mas desgrasante,Granulosa,"17,00","6,00",Fino,Fino,Raya con la uña,2.5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,máficos,félsicos,ferruginoso",Mas desgrasante,Granulosa,"15,00","5,00",Fino,Fino,Raya con la uña,2.5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,máficos,félsicos,ferruginoso",Mas desgrasante,Granulosa,"2,00","4,00",Fino,Fino,Raya con la uña,2.5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,máficos,félsicos,ferruginoso",Mas desgrasante,Granulosa,"16,00","5,00",Fino,Fino,Raya con la uña,2.5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"8,00","4,00",Fino,Fino,Dura,75yr4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","6,00",Fino,Fino,Dura,75yr4/4,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"9,00","4,00",Fino,Fino,Raya con la uña,75yr4/4,Interno,No,No,No,Interno,Café  ,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"9,00","3,00",Fino,Fino,Raya con la uña,75yr4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,félsicos y máficos",Mas desgrasante,Compacta,"9,00","6,00",Fino,Fino,Raya con la uña,5yr5/6,Interno,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,félsicos y máficos",Mas desgrasante,Compacta,"9,00","4,00",Erosionado,Fino,Raya con la uña,75yr6/6,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"10,00","3,00",Fino,Fino,Raya con la uña,5yr4/6,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Mas desgrasante,Compacta,"10,00","2,00",Fino,Fino,Dura,5yr5/6,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"11,00","3,00",Fino,Fino,Raya con la uña,5yr4/4,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"9,00","5,00",Fino,Fino,Dura,5yr5/8,Interno,No,No,No,No,No,interna,5yr4/2,Café rojizo oscuro
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"8,00","4,00",Fino,Erosionado,Dura,75YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"6,00","3,00",Fino,Fino,Raya con la uña,75yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"9,00","2,00",Fino,Fino,Dura,75yr5/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"10,00","5,00",Fino,Fino,Dura,5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"5,00","2,00",Pulido,Pulido,Dura,5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"5,00","2,00",Pulido,Pulido,Dura,5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Muy  fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"4,00","3,00",Pulido,Pulido,Dura,75yr5/6,Extena,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"7,00","4,00",Pulido,Pulido,Dura,10yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"6,00","3,00",Pulido,Pulido,Dura,2.5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"8,00","3,00",Pulido,Pulido,Dura,5YR5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","3,00",Pulido,Pulido,Dura,5yr5/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"1,00","4,00",Fino,Fino,Dura,5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"9,00","4,00",Fino,Fino,Dura,75yr4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"9,00","3,00",Fino,Erosionado,Muy dura,75yr4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,máficos, mica,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","4,00",Fino,Fino,Dura,5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Mas desgrasante,Compacta,"19,00","9,00",Pulido,Pulido,Dura,2.5yr4/6,No,No,No,No,Externo,Rojo  ,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"9,00","4,00",Fino,Erosionado,Dura,75yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"8,00","4,00",Fino,Fino,Dura,5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"13,00","5,00",Fino,Fino,Raya con la uña,2.5yr4/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos y máficos",Equilibrado,Compacta,"10,00","4,00",Fino,Fino,Dura,5yr5/8,No,No,No,No,Ambas,Rojo amarilloso,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"5,00","3,00",Pulido,Pulido,Muy dura,75YR4/3,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"5,00","3,00",Pulido,Pulido,Muy dura,75yr4/3,No,Muescado,Uña,Externa,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"4,00","3,00",Pulido,Pulido,Muy dura,5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Muy  fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"5,00","3,00",Pulido,Pulido,Muy dura,5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","4,00",Pulido,Pulido,Muy dura,5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"14,00","4,00",Fino,Fino,Raya con la uña,5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"10,00","3,00",Fino,Fino,Dura,5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"10,00","3,00",Erosionado,Erosionado,Raya con la uña,10yr6/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"8,00","6,00",Pulido,Pulido,Dura,5yr5/8,ambas,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"8,00","4,00",Pulido,Pulido,Dura,5yr5/8,Interno,No,No,No,Externo,Rojo amarilloso,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"12,00","5,00",Pulido,Pulido,Dura,5yr5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"8,00","4,00",Pulido,Pulido,Dura,5yr5/8,ambas,No,No,No,Externo,Rojo amarilloso,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"11,00","3,00",Pulido,Pulido,Dura,75yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso",Equilibrado,Compacta,"13,00","3,00",Fino,Fino,Raya con la uña,5YR6/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"12,00","4,00",Fino,Fino,Dura,75yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"13,00","3,00",Erosionado,Erosionado,Raya con la uña,5yr6/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"12,00","3,00",Fino,Fino,Dura,5yr6/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"8,00","3,00",Fino,Fino,Dura,75yr5/6,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"9,00","3,00",Fino,Fino,Dura,5yr5/6,Interno,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","4,00",Pulido,Pulido,Dura,5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"8,00","3,00",Pulido,Pulido,Dura,5yr5/8,No,No,No,No,Externo,Rojo amarilloso,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"5,00","2,00",Pulido,Pulido,Dura,75yr3/2,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","2,00",Pulido,Pulido,Raya con la uña,5yr4/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"11,00","3,00",Fino,Fino,Dura,5yr4/3,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"5,00","3,00",Fino,Fino,Dura,75yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Dura,75YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"9,00","4,00",Fino,Fino,Dura,2.5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"9,00","3,00",Fino,Fino,Dura,2.5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Grueso,"Cuarzo,máficos,félsicos,ferruginoso y mica",Mas desgrasante,Granulosa,"9,00","3,00",Fino,Fino,Dura,2.5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Grueso,"Cuarzo,máficos,félsicos,ferruginoso y mica",Mas desgrasante,Granulosa,"1,00","2,00",Fino,Fino,Dura,2.5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Granulosa,"8,00","3,00",Fino,Fino,Dura,5YR5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Grueso,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","2,00",Fino,Fino,Dura,75YR4/4,ambas,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"6,00","3,00",Fino,Fino,Dura,5yr4/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","2,00",Fino,Fino,Dura,75yr6/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"6,00","3,00",Pulido,Pulido,Dura,2.5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Grueso,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"8,00","3,00",Fino,Erosionado,Dura,2.5yr5/6,Interno,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Grueso,"Cuarzo,máficos,félsicos,ferruginoso",Mas desgrasante,Compacta,"10,00","4,00",Fino,Erosionado,Raya con la uña,2.5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Reductora,Medio,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"10,00","3,00",Fino,Fino,Raya con la uña,2.5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","3,00",Fino,Fino,Raya con la uña,75yr4/2,Extena,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"5,00","3,00",Fino,Fino,Raya con la uña,5yr5/4,Extena,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"9,00","5,00",Fino,Pulido,Dura,75yr4/4,Extena,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"7,00","3,00",Pulido,Fino,Raya con la uña,5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"10,00","5,00",Pulido,Pulido,Dura,5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"7,00","2,00",Pulido,Pulido,Dura,5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,máficos,félsicos,ferruginoso y mica",Equilibrado,Compacta,"6,00","3,00",Erosionado,Fino,Raya con la uña,75yr4/4,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"5,00","3,00",Erosionado,Erosionado,Raya con la uña,5yr5/6,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"8,00","2,00",Fino,Fino,Raya con la uña,5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Fino,"Cuarzo,mica,máficos,félsicos y ferruginoso",Equilibrado,Compacta,"6,00","3,00",Fino,Fino,Dura,5YR5/8,No,No,No,No,No,No,No,No,No
+cuerpo,Oxidante,Medio,"Cuarzo,félsicos,máficos, ferruginoso y mica",Equilibrado,Compacta,"6,00","3,00",Fino,Fino,Dura,5yr5/6,No,No,No,No,No,No,No,No,No
